@@ -29,4 +29,7 @@ int[] Solution(int[] collectionElements, int evenCounts)
   return items;
 }
 
+[Блок-схема](Method4.png)
+
+
 * попробовать объяснить почему метод PrintBad уступает методу PrintGood?
